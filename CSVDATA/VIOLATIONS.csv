@@ -1,0 +1,151 @@
+violation_id,violation_code,violation_date,violation_time,description
+1,M11,2019-11-26,13:29,Failure to obey restricted lane
+2,D53,2020-02-06,16:19,Failure to make required payment of fine and costs
+3,N05,2020-01-20,11:54,FTY ROW to funeral procession
+4,S26,2020-01-08,3:27,26-30 > Speed limit (detail optional)
+5,S96,2020-04-20,3:07,Speed less than minimum
+6,D73,2019-04-11,10:45,Obscuring
+7,D16,2021-02-09,16:34,Show or use improperly - Driver license (includes DL
+8,S11,2021-04-20,0:07,11-15 > Speed limit (detail optional)
+9,M60,2021-03-30,14:44,Improper lane or location - slower vehicle lane
+10,B80,2020-03-05,1:16,Failed to surrender driver license (includes DL
+11,N53,2020-04-27,7:31,Making improper left turn
+12,N61,2020-01-12,0:11,Driving wrong way at rotary intersection
+13,A60,2020-03-31,20:25,Underage Convicted of Drinking and Driving at .02 or higher BAC
+14,M25,2019-03-10,19:02,Failure to stop - basic rule at unsigned intersection or when entering roadway from private driveway
+15,M34,2020-06-06,16:56,Following too closely
+16,B50,2020-11-08,17:45,Expired or no document (or item) which is required
+17,B93,2020-05-08,15:33,Loan registration or plates to another person
+18,N22,2020-08-04,2:54,FTY ROW at stop sign
+19,B60,2021-03-13,12:15,Failed to file document or report as required
+20,D38,2020-02-17,21:40,Failure to post security or obtain release from liability
+21,B01,2020-08-17,12:48,Hit and run - failure to stop and render aid after accident
+22,D66,2019-09-11,3:52,Failure to remove harmful substance from traffic way
+23,M84,2021-04-18,2:58,Reckless driving
+24,D06,2020-06-10,10:56,Misrepresentation of identity or other facts to obtain alcohol
+25,F24,2020-01-29,10:28,Violation of excess size/weight permit
+26,F02,2019-06-10,8:38,Child or youth restraint not used properly as required
+27,D01,2020-07-15,16:02,Misrepresentation of identity or other facts
+28,N84,2019-09-03,7:27,Unsafe operation
+29,M58,2021-02-18,21:53,Improper lane or location - road shoulder
+30,N23,2021-02-01,19:36,FTY ROW at traffic sign
+31,S16,2021-02-02,3:57,16-20 > Speed limit (detail optional)
+32,M16,2019-08-22,10:53,Failure to obey traffic signal or light
+33,D27,2019-08-01,16:58,Violate limited license conditions
+34,B29,2020-09-01,6:30,Driving while registration suspended
+35,B24,2020-03-04,15:09,Driving while license disqualified
+36,S71,2019-06-24,4:28,21-30 > Speed limit (detail optional)
+37,E03,2019-01-09,3:58,Operating without HAZMAT safety equipment as required by law
+38,S99,2019-03-15,4:41,Speeding in a school zone
+39,D43,2019-11-15,23:43,Failure to appear for or complete exam/re-exam
+40,B07,2020-08-26,0:50,Leaving accident scene before police arrive - Personal injury accident
+41,S96,2019-06-28,13:20,Speed less than minimum
+42,W20,2020-12-01,14:31,Unable to pass DL test(s) or meet qualifications
+43,M81,2020-08-26,17:24,Careless driving
+44,A11,2019-09-07,0:25,Driving under the influence of alcohol with BAC at or over __ (detail field required)
+45,U02,2020-03-21,10:24,Resisting arrest
+46,S71,2021-03-30,9:43,21-30 > Speed limit (detail optional)
+47,M11,2019-11-24,20:00,Failure to obey restricted lane
+48,M19,2021-01-20,5:02,Failure to obey yield sign
+49,M02,2019-05-15,16:17,Failure to obey barrier
+50,B02,2021-02-18,16:53,Hit and run - failure to stop and render aid after accident - Fatal accident
+51,N24,2020-11-11,7:38,FTY ROW at traffic signal
+52,D15,2019-09-17,7:49,Show or use improperly - Document (or item) not specified
+53,B27,2019-11-21,18:13,General
+54,M10,2020-09-21,0:35,Failure to obey railroad gates
+55,B60,2021-05-19,6:33,Failed to file document or report as required
+56,B93,2019-02-04,1:18,Loan registration or plates to another person
+57,F10,2021-05-15,9:35,Exceeding or violating size
+58,D42,2021-03-07,5:59,Failure to appear for or complete department investigations
+59,D40,2021-05-05,3:32,Failure to appear
+60,B45,2019-04-17,12:29,Mutilated driver license (includes DL
+61,U01,2019-11-15,0:27,Fleeing or evading police or roadblock
+62,B90,2020-05-27,1:07,Failed to provide or submit title transfer documents
+63,M52,2019-03-16,9:34,Improper lane or location - not on National Network
+64,W01,2020-10-22,9:55,Accumulation of convictions (including point systems and/or being judged a habitual offender or violator)
+65,F21,2020-07-25,14:09,No or improper trip permit
+66,M20,2021-05-09,18:39,For drivers who are not required to always stop
+67,A22,2019-05-28,23:24,Driving under the influence of drugs
+68,W10,2020-10-24,17:04,Withdrawal (reason not specified)
+69,B41,2019-09-10,15:35,Possess or provide counterfeit or altered driver license (includes DL
+70,B26,2020-08-28,2:45,Driving while license suspended
+71,M07,2019-07-28,21:37,Failure to obey pedestrian control device
+72,A10,2020-04-29,22:16,Driving under the influence of alcohol with BAC at or over .10
+73,B85,2019-12-29,3:54,False report of emissions inspection
+74,E56,2021-02-16,11:38,Failure to use school bus safety equipment as required
+75,D44,2019-12-18,15:50,Failure to appear for or complete required courses
+76,S15,2020-06-30,18:43,Speeding 15 mph or more above speed limit (detail optional)
+77,N23,2019-01-11,14:37,FTY ROW at traffic sign
+78,F33,2021-05-01,19:11,Parking in a handicap zone
+79,N22,2019-05-24,13:49,FTY ROW at stop sign
+80,B52,2019-02-08,1:38,Expired or no emissions inspection
+81,F61,2019-06-03,8:20,Alteration of emissions control device
+82,M30,2021-05-28,21:51,Following improperly
+83,B63,2020-08-14,13:02,Failed to file future proof of financial responsibility
+84,M84,2021-03-14,13:50,Reckless driving
+85,M08,2020-06-29,12:40,Failure to obey police or peace officer
+86,A20,2020-06-20,3:02,Driving under the influence of alcohol or drugs
+87,A33,2020-03-03,5:48,Illegal possession of drugs (controlled substances)
+88,A60,2019-04-14,6:23,Underage Convicted of Drinking and Driving at .02 or higher BAC
+89,N56,2019-12-03,15:15,Making improper U turn
+90,F06,2019-08-09,15:59,Improper operation of or riding on a motorcycle
+91,M53,2019-09-10,7:47,Improper lane or location - not on route authorized by permit
+92,S11,2019-09-24,9:48,11-15 > Speed limit (detail optional)
+93,A41,2019-06-11,0:34,Driver violation of ignition interlock or immobilization device
+94,E24,2019-04-18,15:58,Use of vehicle lights prohibited by law
+95,N83,2019-07-06,19:42,Improper starting
+96,D37,2021-05-31,15:52,Failure to pay for damages or make installment payment
+97,D02,2019-08-19,23:19,Misrepresentation of identity or other facts on application for driver license (includes DL
+98,N52,2020-05-12,9:22,Improper position for turning
+99,M77,2020-03-29,15:15,Passing with insufficient distance or visibility
+100,B72,2020-01-17,20:53,Failed to show driver license (includes DL
+101,F15,2019-11-23,10:00,Exceeding or violating size limits of road/bridge/tunnel
+102,E80,2021-02-05,15:44,Failure to correct defects after inspection failure or notice
+103,E73,2020-04-13,17:41,Equipment used improperly - making excessive noise
+104,A12,2019-02-26,23:12,Refused to submit to test for alcohol - Implied Consent Law
+105,M42,2021-03-25,3:51,Improper or erratic (unsafe) lane changes
+106,N25,2019-03-27,22:03,FTY ROW at unsigned intersection
+107,M42,2019-11-29,5:09,Improper or erratic (unsafe) lane changes
+108,B29,2019-05-12,2:58,Driving while registration suspended
+109,N24,2020-03-04,23:49,FTY ROW at traffic signal
+110,M03,2019-10-14,15:29,Failure to obey construction or maintenance zone markers
+111,E51,2020-03-06,18:25,Failure to use brakes
+112,D54,2020-12-21,23:51,Failure to make required payment of tax
+113,F15,2020-07-18,0:29,Exceeding or violating size limits of road/bridge/tunnel
+114,A27,2019-08-04,20:46,Driving after drinking - level of intoxication or impairment not known
+115,F03,2020-03-05,16:52,Motorcycle safety equipment not used properly as required
+116,D25,2021-02-17,4:56,Use another's driver license (includes DL
+117,B55,2019-07-13,13:32,Expired or no vehicle safety inspection
+118,S11,2020-03-13,8:23,11-15 > Speed limit (detail optional)
+119,F13,2019-07-31,21:43,Exceeding or violating weight limits of vehicle/truck
+120,N31,2020-05-04,15:49,FTY ROW when turning
+121,D12,2020-09-08,1:25,Manufacture or make false registration or title
+122,B46,2019-08-08,2:41,Mutilated registration card or title
+123,E21,2020-03-19,16:07,Use of colored lights and/or siren prohibited by law
+124,D43,2020-08-27,7:59,Failure to appear for or complete exam/re-exam
+125,D27,2019-11-09,8:38,Violate limited license conditions
+126,F24,2019-03-23,0:54,Violation of excess size/weight permit
+127,S21,2020-03-09,20:15,21-25 > Speed limit (detail optional)
+128,D72,2021-04-07,5:30,Inability to control vehicle
+129,F66,2020-11-22,6:33,Unsafe condition of vehicle (no specified component)
+130,D70,2020-04-21,19:43,Driver's view obstructed
+131,N25,2020-05-03,11:21,FTY ROW at unsigned intersection
+132,D44,2019-01-18,10:41,Failure to appear for or complete required courses
+133,M75,2020-11-05,9:10,Passing school bus displaying warning not to pass
+134,B89,2019-01-19,18:34,False report of vehicle (safety) inspection
+135,D41,2020-05-10,18:23,Failure to appear for hearing or mandatory appearance
+136,A27,2019-03-03,1:41,Driving after drinking - level of intoxication or impairment not known
+137,A61,2020-07-03,10:11,Underage Administrative Per Se - Drinking and Driving at .02 or higher BAC
+138,E35,2020-09-04,16:55,Defective or noisy exhaust system or muffler
+139,M51,2019-02-12,21:14,Improper lane or location - median
+140,N71,2020-05-31,23:26,Driving on wrong side of divided highway
+141,M70,2020-10-09,6:43,Improper passing
+142,A22,2020-09-10,2:32,Driving under the influence of drugs
+143,N72,2019-12-04,23:33,Driving on wrong side of undivided street or road
+144,N82,2019-09-12,2:16,Improper backing
+145,D45,2020-11-14,4:18,Failure to appear for trial or court appearance.
+146,M80,2021-03-18,21:17,Reckless
+147,B03,2020-02-15,11:35,Hit and run - failure to stop and render aid after accident - Personal injury accident
+148,D04,2021-03-11,18:45,Misrepresentation of identity or other facts on application for registration or title
+149,N70,2020-08-11,12:37,Driving on wrong side
+150,D70,2021-02-18,12:00,Driver's view obstructed
